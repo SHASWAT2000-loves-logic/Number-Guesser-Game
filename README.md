@@ -13,3 +13,5 @@
 4. If the answer is incorrect, the user will be shown a "failure" message, along with the number of attempts left to get the right answer. 
 
 5. After all attempts are used, the user will be shown the correct answer, and the "play again" button can be used to play the game again. 
+
+**Note** - As mentioned above, I don't have a CSS stylesheet, because I have used Skeleton CSS and imported its classes into my application. 
